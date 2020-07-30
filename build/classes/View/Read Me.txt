@@ -1,0 +1,11 @@
+This app was made by Ahmad Faroukh 120170297 
+
+Inculded is the Data base SQL file , use with phpMyadmin with apatche server 
+import the file from the import tab 
+
+the inital Adming Account is admin and the password is admin
+
+this was made as a final project for programming 3 course 
+
+the program is an accoting system application that handels basic banking functions like 
+add withdraw and money transfer 
